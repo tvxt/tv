@@ -1,4 +1,15 @@
 频道,#genre#
+CCTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221225804/1.m3u8?$r7d 5M FHD
+CCTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226231/1.m3u8?$r7d 12M FHD
+CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221227725/1.m3u8?$r7d FHD HEVC
+CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/1/224/3221227467/1.m3u8?$r7d 12M FHD
+CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?$r7d* 4M FHD
+CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8?$r7d* 6M FHD
+CCTV1,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$8M FHD
+CCTV1,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3$4M FHD
+CCTV1,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000004953/index.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3$4M FHD
+CCTV1,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3$7.5M FHD
+CCTV1,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$8M FHD
 CCTV1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -19,6 +30,16 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 海绵宝宝,http://epg.112114.xyz/douyu/3949681
 海绵宝宝,http://epg.112114.xyz/douyu/1569773
 
+CCTV4,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226191/1.m3u8?$r7d 4M FHD
+CCTV4,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226223/1.m3u8?$r7d 12M FHD
+CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/1/224/3221228156/1.m3u8?$r7d FHD HEVC
+CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/1/224/3221228091/1.m3u8?$r7d 12M FHD
+CCTV4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8?$r7d* 1.5M SD
+CCTV4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8?$r7d* 4M FHD
+CCTV4,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3$4M FHD
+CCTV4,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3
+CCTV4,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000030093/index.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3$4M HD
+CCTV4,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3$FHD
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://[2409:8087:7001:20:1000::83]:6610/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=RR1420720240203134833610389
@@ -26,6 +47,16 @@ CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3970110376_2107
 CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1531033022_1439869523/ott.mobaibox.com/PLTV/3/224/3221227489/index.m3u8?icpid=3&RTS=1674385941&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV4,http://36.129.204.120:880/DX4.m3u8
 
+天津卫视,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226204/1.m3u8?$r7d 12M FHD
+天津卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/1/224/3221227488/1.m3u8?$r7d 12M FHD
+天津卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/1/224/3221228416/1.m3u8?$r7d FHD HEVC
+天津卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8?$r7d* 4M FHD
+天津卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8?$r7d* 8M FHD
+天津卫视,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000000831/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=3$4M FHD
+天津卫视,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000003475/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=3$8M FHD
+天津卫视,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000030788/index.m3u8?channel-id=bestzb&Contentid=5000000001000030788&livemode=1&stbId=3$4M FHD
+天津卫视,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3$8M FHD
+天津卫视,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000009186/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=3$8M FHD
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 
 CCTV6,https://i.125011.xyz/1905.php?id=cctv6
@@ -35,6 +66,13 @@ CCTV6,http://13457610200.8866.org:2018/live/中6HD6./index.m3u8
 CCTV6,http://caiyehe.7766.org:9901/tsfile/live/1073_1.m3u8
 CCTV6,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv6$r7d 8M FHD
 
+CCTV7,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226192/1.m3u8?$r7d 4M FHD
+CCTV7,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8?$r7d* 4M FHD
+CCTV7,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3$4M FHD
+CCTV7,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000024341/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3$8M FHD
+CCTV7,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000026715/index.m3u8?channel-id=bestzb&Contentid=5000000005000026715&livemode=1&stbId=3$4M HD
+CCTV7,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000011000031104/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3$FHD
+CCTV7,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000009055/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3$8M FHD
 CCTV7,http://36.129.204.120:880/DX7.m3u8
 CCTV7,http://13457610200.8866.org:2018/live/CCTVx7高清/index.m3u8
 CCTV7,http://caiyehe.7766.org:9901/tsfile/live/1084_1.m3u8
