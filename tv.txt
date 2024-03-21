@@ -129,12 +129,20 @@ CCTV3,http://13457610200.8866.org:2018/live/CCTVx3高清/index.m3u8
 CCTV3,http://13457610200.8866.org:2018/live/中央3HD/index.m3u8
 CCTV3,http://caiyehe.7766.org:9901/tsfile/live/1072_1.m3u8
 CCTV3,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv3$r7d 8M FHD
-CCTV5,http://36.129.204.120:880/DX99.m3u8
+
+CCTV5,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226395/1.m3u8?$r7d 4M FHD
+CCTV5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8?$r7d* 4M FHD
+CCTV5,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3$4M FHD
+CCTV5,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000003000030177/index.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3$7.7M FHD
+CCTV5,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3$12M FHD
+CCTV5,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3$7M FHD
+CCTV5,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000016619/index.m3u8?channel-id=bestzb&Contentid=5000000010000016619&livemode=1&stbId=3$4M FHD
+CCTV5,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000001000016431/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3$7.7M FHD
 CCTV5,http://13457610200.8866.org:2018/live/CCTVx5高清/index.m3u8
 CCTV5,http://13457610200.8866.org:2018/live/中央5HD/index.m3u8
 CCTV5,http://caiyehe.7766.org:9901/tsfile/live/1017_1.m3u8
 CCTV5,http://caiyehe.7766.org:9901/tsfile/live/1103_1.m3u8
-CCTV5,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv5$r7d 8M FHD
+
 CCTV8,http://36.129.204.120:880/DX8.m3u8
 CCTV8,http://13457610200.8866.org:2018/live/CCTVx8高清/index.m3u8
 CCTV8,http://13457610200.8866.org:2018/live/中8HD./index.m3u8
