@@ -1,3 +1,6 @@
+CCTV1,http://NAS:35455/gaoma/CCTV1.m3u8
+CCTV1,http://36.40.236.89:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://101.66.199.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://[2409:8087:1a0a:df::4031]:80/wh7f454c46tw705163907_345094122/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 
@@ -6,22 +9,27 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 海绵宝宝,http://epg.112114.xyz/douyu/3949681
 海绵宝宝,http://epg.112114.xyz/douyu/1569773
 
-
+CCTV4,http://NAS:35455/gaoma/CCTV4.m3u8
+CCTV4,http://36.40.236.89:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://101.66.198.140:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://101.66.199.54:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://61.173.144.157:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://123.138.22.30:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+天津卫视,http://NAS:35455/itv/6000000001000009186.m3u8?cdn=wasusyt
 天津卫视,http://[2409:8087:1a0a:df::402e]:80/wh7f454c46tw2817558359_702405668/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 天津卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 
-CCTV6,http://[2409:8087:1a0a:df::4038]:80/wh7f454c46tw1592771597_580809367/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV7,http://[2409:8087:1a0a:df::400f]:80/wh7f454c46tw1639845910_217588519/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8,http://[2409:8087:1a0a:df::4036]:80/wh7f454c46tw1670555715_-98597522/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV8,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV9,http://[2409:8087:1a0a:df::4015]:80/wh7f454c46tw1711975279_-1056895978/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV9,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10,http://[2409:8087:1a0a:df::4035]:80/wh7f454c46tw1741373816_102984390/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV10,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV11,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV12,http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1801993293_427444497/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV6,http://NAS:35455/gaoma/CCTV6.m3u8
+CCTV7,http://NAS:35455/gaoma/CCTV7.m3u8
+CCTV8,http://NAS:35455/gaoma/CCTV8.m3u8
+CCTV9,http://NAS:35455/gaoma/CCTV9.m3u8
+CCTV10,http://NAS:35455/gaoma/CCTV10.m3u8
+CCTV11,http://NAS:35455/gaoma/CCTV11.m3u8
+CCTV12,http://NAS:35455/gaoma/CCTV12.m3u8
+CCTV13,http://NAS:35455/gaoma/CCTV13.m3u8
+CCTV13,http://101.66.199.54:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV13,http://[2409:8087:1a0a:df::402d]:80/wh7f454c46tw1865416231_2120705273/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV13,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
@@ -29,21 +37,14 @@ CCTV13,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/
 CCTV13,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
 CCTV13,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV13,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8
-CCTV14,http://[2409:8087:1a0a:df::404d]:80/wh7f454c46tw1988565230_-380430064/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV15,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV15,http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
-CCTV15,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV16,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-CCTV16,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV16,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2178989547_-748691326/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV17,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV14,http://NAS:35455/gaoma/CCTV14.m3u8
+CCTV15,http://NAS:35455/gaoma/CCTV15.m3u8
+CCTV16,http://NAS:35455/gaoma/CCTV16.m3u8
+CCTV17,http://NAS:35455/gaoma/CCTV17.m3u8
 
-CCTV2,http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
-CCTV2,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV3,http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1306766403_-33994166/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV5,http://[2409:8087:1a0a:df::4017]:80/wh7f454c46tw1517328845_1706942365/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV2,http://NAS:35455/gaoma/CCTV2.m3u8
+CCTV3,http://NAS:35455/gaoma/CCTV3.m3u8
+CCTV5,http://NAS:35455/gaoma/CCTV5.m3u8
 
 安徽卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 北京卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
