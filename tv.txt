@@ -40,6 +40,7 @@ CCTV3,http://10.1.1.10:35455/gaoma/cctv3.m3u8
 天津津南,https://play.jinnantv.top/live/JNTV1.flv
 天津津南,rtmp://play.jinnantv.top/live/JNTV1
 
+湖南卫视,http://10.1.1.10:9438/play/30000110000000000000000000000035
 湖南卫视,http://10.1.1.10:35455/itv/5000000004000006692.m3u8?cdn=bestzb
 湖南卫视,http://10.1.1.10:35455/itv/6000000001000018044.m3u8?cdn=wasusyt
 湖南卫视,http://10.1.1.10:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
