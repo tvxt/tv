@@ -1,5 +1,4 @@
 CCTV1,http://10.1.1.10:35455/gaoma/cctv1.m3u8
-CCTV1,http://live-auth.51kandianshi.com/szgd/cctv1.m3u8
 
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 海绵宝宝,http://epg.112114.xyz/douyu/7528160
