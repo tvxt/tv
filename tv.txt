@@ -1,6 +1,4 @@
-CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-CCTV1,http://60.214.104.110:352/tsfile/live/0001_1.m3u8
-CCTV1,http://1.24.190.122:1080/hls/1/index.m3u8
+CCTV1,http://10.1.1.10:2287/cctv1
 CCTV1,http://10.1.1.10:35455/gaoma/cctv1.m3u8
 
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -8,47 +6,33 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 海绵宝宝,http://epg.112114.xyz/douyu/3949681
 海绵宝宝,http://epg.112114.xyz/douyu/1569773
 
-CCTV4,http://60.214.104.110:352/tsfile/live/0004_1.m3u8
-CCTV4,http://1.24.190.122:1080/hls/4/index.m3u8
+CCTV4,http://10.1.1.10:2287/cctv4
 CCTV4,http://10.1.1.10:35455/gaoma/cctv4.m3u8
-CCTV5,http://60.214.104.110:352/tsfile/live/0005_1.m3u8
-CCTV5,http://1.24.190.122:1080/hls/5/index.m3u8
+CCTV5,http://10.1.1.10:2287/cctv5
 CCTV5,http://10.1.1.10:35455/gaoma/cctv5.m3u8
-CCTV6,http://60.214.104.110:352/tsfile/live/0006_1.m3u8
-CCTV6,http://1.24.190.122:1080/hls/6/index.m3u8
+CCTV6,http://10.1.1.10:2287/cctv6
 CCTV6,http://10.1.1.10:35455/gaoma/cctv6.m3u8
-CCTV7,http://60.214.104.110:352/tsfile/live/0007_1.m3u8
-CCTV7,http://1.24.190.122:1080/hls/7/index.m3u8
+CCTV7,http://10.1.1.10:2287/cctv7
 CCTV7,http://10.1.1.10:35455/gaoma/cctv7.m3u8
-CCTV8,http://60.214.104.110:352/tsfile/live/0008_1.m3u8
-CCTV8,http://1.24.190.122:1080/hls/8/index.m3u8
+CCTV8,http://10.1.1.10:2287/cctv8
 CCTV8,http://10.1.1.10:35455/gaoma/cctv8.m3u8
-CCTV9,http://1.24.190.122:1080/hls/9/index.m3u8
 CCTV9,http://10.1.1.10:35455/gaoma/cctv9.m3u8
-CCTV10,http://60.214.104.110:352/tsfile/live/0010_1.m3u8
-CCTV10,http://1.24.190.122:1080/hls/10/index.m3u8
+CCTV10,http://10.1.1.10:2287/cctv10
 CCTV10,http://10.1.1.10:35455/gaoma/cctv10.m3u8
-CCTV11,http://1.24.190.122:1080/hls/11/index.m3u8
 CCTV11,http://10.1.1.10:35455/gaoma/cctv11.m3u8
-CCTV12,http://60.214.104.110:352/tsfile/live/0012_1.m3u8
-CCTV12,http://1.24.190.122:1080/hls/12/index.m3u8
+CCTV12,http://10.1.1.10:2287/cctv12
 CCTV12,http://10.1.1.10:35455/gaoma/cctv12.m3u8
-CCTV13,http://60.214.104.110:352/tsfile/live/0013_1.m3u8
-CCTV13,http://1.24.190.122:1080/hls/13/index.m3u8
+CCTV13,http://10.1.1.10:2287/cctv13
 CCTV13,http://10.1.1.10:35455/gaoma/cctv13.m3u8
-CCTV14,http://60.214.104.110:352/tsfile/live/0014_1.m3u8
-CCTV14,http://1.24.190.122:1080/hls/14/index.m3u8
+CCTV14,http://10.1.1.10:2287/cctv14
 CCTV14,http://10.1.1.10:35455/gaoma/cctv14.m3u8
-CCTV15,http://1.24.190.122:1080/hls/15/index.m3u8
 CCTV15,http://10.1.1.10:35455/gaoma/cctv15.m3u8
 CCTV16,http://10.1.1.10:35455/gaoma/cctv16.m3u8
 CCTV17,http://10.1.1.10:35455/gaoma/cctv17.m3u8
 
-CCTV2,http://60.214.104.110:352/tsfile/live/0002_1.m3u8
-CCTV2,http://1.24.190.122:1080/hls/2/index.m3u8
+CCTV2,http://10.1.1.10:2287/cctv2
 CCTV2,http://10.1.1.10:35455/gaoma/cctv2.m3u8
-CCTV3,http://60.214.104.110:352/tsfile/live/0003_1.m3u8
-CCTV3,http://1.24.190.122:1080/hls/3/index.m3u8
+CCTV3,http://10.1.1.10:2287/cctv3
 CCTV3,http://10.1.1.10:35455/gaoma/cctv3.m3u8
 
 天津卫视,http://10.1.1.10:9438/play/30001110000000000000000000000698
