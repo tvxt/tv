@@ -1,4 +1,5 @@
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV1,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV1,http://10.1.1.10:2287/cctv1
 
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -6,33 +7,33 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 海绵宝宝,http://epg.112114.xyz/douyu/3949681
 海绵宝宝,http://epg.112114.xyz/douyu/1569773
 
-CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV4,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV4,http://10.1.1.10:2287/cctv4
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV5,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV5,http://10.1.1.10:2287/cctv5
-CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV6,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV6,http://10.1.1.10:2287/cctv6
-CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV7,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV7,http://10.1.1.10:2287/cctv7
-CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV8,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV8,http://10.1.1.10:2287/cctv8
-CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV9,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV9,http://10.1.1.10:2287/cctv9
-CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV10,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV10,http://10.1.1.10:2287/cctv10
-CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+CCTV11,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV11,http://10.1.1.10:2287/cctv11
-CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV12,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV12,http://10.1.1.10:2287/cctv12
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV13,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV13,http://10.1.1.10:2287/cctv13
-CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+CCTV14,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV14,http://10.1.1.10:2287/cctv14
 CCTV15,http://10.1.1.10:2287/cctv15
 
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV2,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV2,http://10.1.1.10:2287/cctv2
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV3,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV3,http://10.1.1.10:2287/cctv3
 
 天津滨海,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
