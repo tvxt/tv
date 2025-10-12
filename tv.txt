@@ -8,10 +8,7 @@ JJ斗地主,http://10.1.1.10:35455/huya/152698
 JJ斗地主,http://10.1.1.10:35455/huya/30814431
 JJ斗地主,http://10.1.1.10:35455/huya/30814432
 JJ斗地主,http://10.1.1.10:35455/huya/30814433
-JJ斗地主,http://10.1.1.10:35455/huya/28511836
-海绵宝宝,http://epg.112114.xyz/douyu/7528160
-海绵宝宝,http://epg.112114.xyz/douyu/3949681
-海绵宝宝,http://epg.112114.xyz/douyu/1569773
+JJ麻将,http://10.1.1.10:35455/huya/28511836
 
 CCTV4,http://10.1.1.10:6388/play///:2287/cctv4
 CCTV4,http://10.1.1.10:2288/cctv4
@@ -45,6 +42,10 @@ CCTV2,http://10.1.1.10:2288/cctv2
 CCTV2,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV3,http://10.1.1.10:2288/cctv3
 CCTV3,http://10.1.1.10:6388/play/http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+
+海绵宝宝,http://epg.112114.xyz/douyu/7528160
+海绵宝宝,http://epg.112114.xyz/douyu/3949681
+海绵宝宝,http://epg.112114.xyz/douyu/1569773
 
 天津滨海,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 天津津南,http://play.jinnantv.top/live/JNTV1.m3u8
